@@ -1,0 +1,126 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-color:#DEB887;
+	font-size: 14pt;
+line-height: 2em;
+color: #555;
+letter-spacing: 1.5px;
+font-family: "Georgia","Hiragino Sans GB",serif;
+text-align:center;
+margin-top:70px;
+}
+	
+	
+#container
+{
+        background-color:#FFF; width:1024px; min-height:800px;
+		margin:auto; margin-bottom:50px;
+		}
+#list
+{	
+	
+	list-style-type:none;
+	width:900px;
+	text-align:center;
+
+
+}
+#list_title{
+	color:#808080;
+	font-size:22px;
+	padding-top:30px;
+	
+	}
+
+
+#title_1{
+	
+	width:800px;
+	height:28px;
+	margin:auto;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:left;
+	line-height: 20px;
+	letter-spacing: 0.5px;
+	color:#000;
+	font-size: 1.25em;
+	border-bottom: 1px solid #DDD;
+	font-weight:normal;
+	}
+
+
+#title_1_1{
+
+	width:800px;
+	height:28px;
+	margin:auto;
+	padding-left:20px;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:left;
+	line-height: 18px;
+	letter-spacing: 0.5px;
+	color:#808080;
+	font-size: 20px;
+	font-weight:normal;
+	}
+#title_1_1 a{color:#808080; 
+}
+
+#title_1_1 a:hover{color:#000; 
+}
+
+#title_a{	width:800px;
+	height:28px;
+	margin:auto;
+	padding-left:20px;
+	text-align:left;
+	line-height: 60px;
+	letter-spacing: 0.5px;
+	color:#808080;
+	font-size: 18px;
+	font-weight:normal;
+}
+#line{height:20px;}
+
+#title_box
+{
+	width:800px;
+	
+
+    min-hight:100px;
+	border: 2px solid #DDD;
+	text-align:left;
+	margin-left:60px;
+	 padding:20px;
+	 font-family:Verdana, Geneva, sans-serif;
+	 letter-spacing: 1.3px;
+   color:#000;
+		font-size:15px;
+	font-weight:normal; 
+	 
+	 } 
+	 
+	 
+#printbox{font-size:15px;line-height: 1.3em; color:#000; font-family:Verdana, Geneva, sans-serif;
+	 letter-spacing: 1.4px;margin-left:60px;
+	font-weight:normal;width:65px;  height:20px; margin-top:22px;border: 1px solid #DDD;}
+
+
+#textdiv{margin-left:60px;}
+
+#text{letter-spacing:0.5px; text-align:left; font-family:"Arial Black", Gadget, sans-serif;font-size:16px;}
+
+
+
+#divfoot{ margin-left:60px; color:#808080;letter-spacing: 0px; text-align:left;font-size:12px; font-family:Verdana, Geneva, sans-serif; margin-top:100px}
+
+#author_span{ margin-top:-20px; font-size:12px;font-family:Verdana, Geneva, sans-serif; color:#666; font-weight:normal;}
+
+
+#hight{
+	border-bottom:1px solid #eee; margin:10px;
+}
+.span1{ padding-left:30px;}
